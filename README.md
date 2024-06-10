@@ -1,3 +1,15 @@
-# Use-case-5
+# Exploring Employment Landscape in Saudi Arabia
 
-### Streamlit link https://lab-storytellinggit-huexdazzu23qdd5gqppni3.streamlit.app
+### Description : 
+- Unlock insights into Saudi Arabia's job market landscape: regional distribution, gender preferences, fresh graduate salaries, and opportunities
+### Tools : 
+- Dtale, Sweetviz, Streamlit
+### Deployment :
+- Streamlit
+
+
+link https://lab-storytellinggit-huexdazzu23qdd5gqppni3.streamlit.app
+
+
+
+
