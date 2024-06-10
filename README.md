@@ -6,9 +6,8 @@
 - Dtale, Sweetviz, Streamlit
 ### Deployment :
 - Streamlit
-
-
-link https://lab-storytellinggit-huexdazzu23qdd5gqppni3.streamlit.app
+### Demo :
+- https://lab-storytellinggit-huexdazzu23qdd5gqppni3.streamlit.app
 
 
 
