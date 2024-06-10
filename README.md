@@ -4,7 +4,7 @@
 - Unlock insights into Saudi Arabia's job market landscape: regional distribution, gender preferences, fresh graduate salaries, and opportunities
 ### Tools : 
 - Dtale, Sweetviz, Streamlit
-### Deployment :
+### Storytelling :
 - Streamlit
 ### Demo :
 - https://lab-storytellinggit-huexdazzu23qdd5gqppni3.streamlit.app
